@@ -1,6 +1,7 @@
 ## Entregável Parcial - EP1 🗃️
 
-![Modelo Fisico Banco de Dados] ![drawSQL-image-export-2024-06-09](https://github.com/jifa-team/entregavel-parcial-1/assets/141689100/e85feee9-5bf2-42d2-9804-dd913c167ec4)
+![Modelo Fisico Banco de Dados] ![drawSQL-image-export-2024-06-09 (2)](https://github.com/jifa-team/entregavel-parcial-1/assets/141689100/356456ac-ad89-4a6e-bfb9-83a85adac199)
+
 
 
 > envolve o desenvolvimento do Projeto Físico de Banco de Dados do MVP:
