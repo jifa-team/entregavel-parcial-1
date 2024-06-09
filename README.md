@@ -1,6 +1,6 @@
 ## Entregável Parcial - EP1 🗃️
 
-![enter image description here](https://drive.google.com/file/d/11qBRx2cu3q9tmHbK2VmzrD5UCDvSrtV4/view?usp=sharing)
+![Modelo Fisico Banco de Dados](https://drive.google.com/file/d/11qBRx2cu3q9tmHbK2VmzrD5UCDvSrtV4/view?usp=sharing)
 
 > envolve o desenvolvimento do Projeto Físico de Banco de Dados do MVP:
 
