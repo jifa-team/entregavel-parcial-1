@@ -1,6 +1,7 @@
 ## Entregável Parcial - EP1 🗃️
 
-![Modelo Fisico Banco de Dados](https://drive.google.com/file/d/11qBRx2cu3q9tmHbK2VmzrD5UCDvSrtV4/view?usp=sharing)
+![Modelo Fisico Banco de Dados] ![drawSQL-image-export-2024-06-09](https://github.com/jifa-team/entregavel-parcial-1/assets/141689100/e85feee9-5bf2-42d2-9804-dd913c167ec4)
+
 
 > envolve o desenvolvimento do Projeto Físico de Banco de Dados do MVP:
 
@@ -14,7 +15,8 @@ Passo inicial que julgamos necessário para entender o que deveríamos realizar 
 👣 [Projeção de tabelas e Dicionario de Dados](https://docs.google.com/spreadsheets/d/1F-rJvux_QpnvMES-bDsMlsdTmD8K8TpkaMf-XrgEkYc/edit?usp=sharing)
 Nesse documento realizamos a descrição das tabelas e seus relacionamentos, assim também como cada um dos seus atributos, além de identificamos quais as tabelas necessitaríamos para o projeto, passo importante para a idealização do projeto físico.
 
-👣 [Modelagem SQL para Prototipar o Desenho do Modelo Físico] 
+👣 [Modelagem SQL para Prototipar o Desenho do Modelo Físico]. 
+
 Nessa parte, fizemos o desenvolvimento dos códigos das tabelas e relacionamentos e atributos na linguagem SQL, para posteriormente podermos gerar o modelo fisico.
 
 👣 [Desenho do Modelo Físico](https://drive.google.com/file/d/1EdGO14tPNqW_HGz8hXRLahLlcCb2M7TF/view)
