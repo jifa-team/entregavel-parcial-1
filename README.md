@@ -12,7 +12,7 @@
 👣 [Entedimento da #Sprint 1](https://docs.google.com/document/d/1WD88m6wrEMMfo1sy6NO4tBrnCrWBIqSFBo3LDU8v-ZA/edit?usp=sharing)
 Passo inicial que julgamos necessário para entender o que deveríamos realizar para obter êxito ao término da Sprint 1.
 
-👣 [Projeção de tabelas e Dicionario de Dados](https://docs.google.com/spreadsheets/d/1F-rJvux_QpnvMES-bDsMlsdTmD8K8TpkaMf-XrgEkYc/edit?usp=sharing)
+👣 [Projeção de tabelas e Dicionario de Dados](https://docs.google.com/document/d/1f60iJDKugPyi7TcIPD92wlHSp3XE5jMtMAvRrACbA7w/edit)
 Nesse documento realizamos a descrição das tabelas e seus relacionamentos, assim também como cada um dos seus atributos, além de identificamos quais as tabelas necessitaríamos para o projeto, passo importante para a idealização do projeto físico.
 
 👣 [Modelagem SQL para Prototipar o Desenho do Modelo Físico]. 
